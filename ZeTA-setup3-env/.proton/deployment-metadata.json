@@ -1,0 +1,10 @@
+{
+  "deploymentId" : "3e2689ab-cdb3-4e5f-9ef3-2a3ec83d28be",
+  "isResourceDeleted" : false,
+  "resourceMetadata" : {
+    "arn" : "arn:aws:proton:us-east-1:325274090673:environment/ZeTA-setup3-env",
+    "templateArn" : "arn:aws:proton:us-east-1:325274090673:environment-template/eks-mng-karpenter-with-new-vpc",
+    "templateMajorVersion" : "1",
+    "templateMinorVersion" : "0"
+  }
+}
